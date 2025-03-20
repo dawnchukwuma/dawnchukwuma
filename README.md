@@ -2,7 +2,7 @@
 
 - 👀 I'm a Front-End Developer
 - 🌱 I’m currently learning CSS
-- 📜 Acquired skills in HTML, CSS, JavaScript, Git, and GitHub.
+- 📜 Skills in: HTML, CSS.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me  
 dawnchukwuma2@gmail.com
