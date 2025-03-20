@@ -1,8 +1,8 @@
+- Hi there 👋
 
-# 👋 Hi, I’m @dawnchukwuma
-- 👀 I’m interested in web development
+- 👀 I'm a Front-End Developer
 - 🌱 I’m currently learning CSS
-- 📜 Acquired skills in HTML, CSS,  JavaScript, Git, and GitHub
+- 📜 Acquired skills in HTML, CSS, JavaScript, Git, and GitHub.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me  
 dawnchukwuma2@gmail.com
