@@ -1,4 +1,4 @@
-## Hi I'm Dawn 👋
+# Hi I'm Dawn 👋
 
 - 👀 I'm a Front-End Developer
 - 🌱 I’m currently learning CSS
