@@ -2,9 +2,9 @@
 
 - 👀 I'm a Front-End Developer
 - 🌱 I’m currently learning CSS
-- 📜 Skills in: HTML, CSS.
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me  
+- 📜 Skills in: HTML and CSS.
+- 👩‍💻 I’m looking to collaborate on web development projects
+- 📥 How to reach me  
 dawnchukwuma2@gmail.com
 <!--
 **dawnchukwuma/dawnchukwuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
