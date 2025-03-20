@@ -1,5 +1,11 @@
-## Hi there 👋
 
+# 👋 Hi, I’m @dawnchukwuma
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning CSS
+- 📜 Acquired skills in HTML, CSS,  JavaScript, Git, and GitHub
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me  
+dawnchukwuma2@gmail.com
 <!--
 **dawnchukwuma/dawnchukwuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
